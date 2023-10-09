@@ -1,0 +1,81 @@
+#name
+{
+    font-family: 'Karla';
+    font-style: italic;
+    font-weight: 800;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/karla/v31/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCUHlGb7PnGw.woff2) format('woff2');
+    unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    color: white;
+}
+
+#name2
+{
+    
+   
+    font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/exo2/v21/7cH1v4okm5zmbvwkAx_sfcEuiD8j4PKsNNC_nps.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+
+    color: #333333;
+}
+
+
+.about-me {
+    background-color: #f8f9fa;
+    padding: 80px 0;
+}
+
+.about-me h2 {
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #007bff;
+}
+
+.about-me p {
+    font-size: 18px;
+    color: #495057;
+}
+
+#linkedin:hover{
+    fill: #007bff;
+}
+
+#instagram:hover{
+    display: inline-block;
+
+    text-align: center;
+    border-radius: 40px;
+    color: #fff;
+    vertical-align: middle;
+    background: #d6249f;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    box-shadow: 0px 3px 10px rgba(0,0,0,.25);
+}
+
+#snapchat:hover{
+    fill: #FFFC00;
+}
+
+#header{
+    background-color: #2E3D49;
+}
+
+.nav-link{
+    color: white;
+}
+
+
+#hero{
+    background-color: #ffe6a6;
+}
+
+#hero_btn{
+    background-color: #F76C6C;
+}
+
